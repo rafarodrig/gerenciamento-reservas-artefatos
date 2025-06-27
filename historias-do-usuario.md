@@ -1,20 +1,20 @@
 # Histórias do Usuário
 
 ## História 1: Cadastro de Reserva
-> Como funcionário do UniSenac, quero cadastrar uma reserva de sala para uma disciplina, informando turma, sala, data e turno, para garantir que a sala esteja reservada corretamente para a aula.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero cadastrar uma reserva de sala para uma disciplina, informando turma, sala, data e turno, para garantir que a sala esteja reservada corretamente para a aula.
 
 ## História 2: Consulta de Reservas
-> Como funcionário do UniSenac, quero visualizar as reservas existentes em uma determinada data e turno, para evitar conflitos e acompanhar o uso das salas.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero visualizar as reservas existentes em uma determinada data e turno, para evitar conflitos e acompanhar o uso das salas.
 
 ## História 3: Edição e Exclusão de Reservas
-> Como funcionário, quero editar ou excluir reservas cadastradas, para corrigir erros ou reagendar aulas e eventos quando necessário.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero editar ou excluir reservas cadastradas, para corrigir erros ou reagendar aulas e eventos quando necessário.
 
 ## História 4: Gerenciamento de Salas
-> Como administrador, quero cadastrar e manter atualizadas as informações das salas disponíveis, como capacidade e recursos, para garantir alocações coerentes com as necessidades dos cursos.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero cadastrar e manter atualizadas as informações das salas disponíveis, como capacidade e recursos, para garantir alocações coerentes com as necessidades dos cursos.
 
 ## História 5: Cadastro de Turmas
-> Como funcionário, quero cadastrar turmas com seus respectivos docentes e cursos, para vincular as reservas de forma organizada e automatizada.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero cadastrar turmas com seus respectivos docentes e cursos, para vincular as reservas de forma organizada e automatizada.
 
 ## História 6: Acompanhamento do Uso das Salas
-> Como funcionário do setor de ensalamento, quero visualizar de forma rápida a distribuição de salas por data e turno, para garantir que não haja sobreposições de reservas.
+> Como funcionário do UniSenac responsável pelo ensalamento, quero visualizar de forma rápida a distribuição de salas por data e turno, para garantir que não haja sobreposições de reservas.
 
