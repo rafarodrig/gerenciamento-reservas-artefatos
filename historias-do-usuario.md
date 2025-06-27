@@ -1,6 +1,6 @@
 # Histórias do Usuário
 
- **Funcionário**:Funcionário do UniSenac responsável pelo ensalamento.
+ **Funcionário**: Funcionário do UniSenac responsável pelo ensalamento.
 
 ## História 1: Cadastro de Reserva
 > Como **Funcionário**, quero cadastrar uma reserva de sala para uma disciplina, informando turma, sala, data e turno, para garantir que a sala esteja reservada corretamente para a aula.
